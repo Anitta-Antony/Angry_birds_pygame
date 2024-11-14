@@ -1,0 +1,97 @@
+requirement : a simple 2D game
+
+goal : to create a simple angry bird game
+
+plan : concept devolopment,req,tasks,time 
+
+code :
+
+integration:
+
+/ = done
+
+day 1 -planning   /
+day 2 -design collecting images/
+        1.python pygame /
+        2.character images ,background image /
+        3.buttons     /
+day 3 -level 1 game page 
+        .functions -
+                    able to drag the bird   /
+                    projctile motion of bird flying   /
+                    collition detection  /
+        review and integration
+
+day 4- 4.home page with play button /
+        score updation  /
+        limited number of player birds  /
+        review and integration /.
+
+day 5-  game over conditions   /   
+        level clear conditions /
+        refresh exit conditions /
+        review and integration /
+
+day 6- compeletion of phase one
+        review
+        starting phase 2
+        2.after clearing lvl 1 - moving to lvl 2
+        3.sound effects
+        review and integration
+
+day 7-
+    4.lvl 2 
+    functions-
+                different player birds and pigs 
+                score updation according to type of bird
+
+day 8 - complete
+
+
+
+
+
+
+
+
+angry birds game 
+character : angry birds,pigs 
+basic level 
+different levels based on difficulty
+
+future prospects 
+sound effects
+able to select player bird to play 
+menu to select which level to goto 
+death hit fall animations ?????????
+
+phase 1
+1.python pygame
+2.character images ,background image
+3.buttons
+4.home page with play button
+5.level 1 game page 
+        .functions -
+                    able to drag the bird
+                    projctile motion of bird flying
+                    collition detection 
+                    score updation
+                    limited number of player birds 
+                    game over conditions 
+                    level clear conditions 
+                    refresh exit conditions
+
+
+phase 2 
+1.home page with levels to chose from
+2.after clearing lvl 1 - moving to lvl 2
+3.sound effects
+4.lvl 2 
+    functions-
+                different player birds and pigs 
+                score updation according to type of bird
+
+            
+
+
+
